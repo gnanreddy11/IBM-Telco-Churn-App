@@ -28,12 +28,17 @@ An **interactive Streamlit app** allows real-time predictions based on user inpu
 ```bash
 git clone https://github.com/gnanreddy11/IBM-Telco-Churn-App.git
 cd IBM-Telco-Churn-App
+```
 
 2️⃣ Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 3️⃣ Run the Streamlit app:
+```bash
 streamlit run streamlit_app.py
+```
 
 4️⃣ Open http://localhost:8501 in your browser
 
